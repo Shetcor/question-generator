@@ -1,3 +1,7 @@
+# Members
+R181600B - Sheunesu C Tazvivinga
+R181558W - Tafadzwa N Yemeke
+
 # Video Demonstration
 https://drive.google.com/file/d/1EuR5xiEdAqSGho1360aZkPBFFd5sAChc/view?usp=sharing
 
